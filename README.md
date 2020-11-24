@@ -80,7 +80,7 @@
         <sub>Easy</sub>
       </td>
       <td align=center>
-        <sub>0 ms <br> 00.00%</sub>
+        <sub>0 ms <br> 100.00%</sub>
       </td>
       <td align=center>
         <sub>39.2 MB</sub> <br> <sub>55.89%</sub>
