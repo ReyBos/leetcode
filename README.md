@@ -25,6 +25,27 @@
   <tbody>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/longest-palindromic-substring/">0005</a>
+      </td>
+      <td>
+        <sub>Longest Palindromic Substring</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/longest/palindromic/substring">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/longest/palindromic/substring">tests</a>
+      </td>
+      <td align=center>
+        <sub>Medium</sub>
+      </td>
+      <td align=center>
+        <sub>101 ms <br> 40.26%%</sub>
+      </td>
+      <td align=center>
+        <sub>39.5 MB <br> 46.51%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">0004</a>
       </td>
       <td>
