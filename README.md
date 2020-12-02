@@ -38,7 +38,7 @@
         <sub>Medium</sub>
       </td>
       <td align=center>
-        <sub>101 ms <br> 40.26%%</sub>
+        <sub>101 ms <br> 40.26%</sub>
       </td>
       <td align=center>
         <sub>39.5 MB <br> 46.51%</sub>
