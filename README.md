@@ -28,7 +28,7 @@
         <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
       </td>
       <td>
-        <sub>Longest Palindromic Substring</sub>
+        <sub>ZigZag Conversion</sub>
       </td>
       <td align=center>
         <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/zig/zag/conversion">java</a> <br>
