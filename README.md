@@ -25,6 +25,27 @@
   <tbody>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
+      </td>
+      <td>
+        <sub>Longest Palindromic Substring</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/zig/zag/conversion">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/zig/zag/conversion">tests</a>
+      </td>
+      <td align=center>
+        <sub>Medium</sub>
+      </td>
+      <td align=center>
+        <sub>5 ms <br> 73.00%</sub>
+      </td>
+      <td align=center>
+        <sub>39.7 MB <br> 50.41%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/longest-palindromic-substring/">0005</a>
       </td>
       <td>
