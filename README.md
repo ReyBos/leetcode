@@ -24,6 +24,27 @@
   </thead>
   <tbody>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480</a>
+        </td>
+        <td>
+          <sub>Running Sum of 1d Array</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/running/sum/of/one/dimensional/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/running/sum/of/one/dimensional/array">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>39.1 MB <br> 72.55%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
       </td>
