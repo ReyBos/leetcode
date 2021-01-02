@@ -24,6 +24,27 @@
   </thead>
   <tbody>
     <tr>
+          <td align=center>
+            <a href="https://leetcode.com/problems/richest-customer-wealth/">1672</a>
+          </td>
+          <td>
+            <sub>Richest Customer Wealth</sub>
+          </td>
+          <td align=center>
+            <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/running/richest/customer/wealth">java</a> <br>
+            <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/running/richest/customer/wealth">tests</a>
+          </td>
+          <td align=center>
+            <sub>Easy</sub>
+          </td>
+          <td align=center>
+            <sub>0 ms <br> 100.00%</sub>
+          </td>
+          <td align=center>
+            <sub>38.6 MB <br> 61.35%</sub>
+          </td>
+    </tr>
+    <tr>
         <td align=center>
           <a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480</a>
         </td>
