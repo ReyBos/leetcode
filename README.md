@@ -73,8 +73,8 @@
           <sub>Shuffle the Array</sub>
         </td>
         <td align=center>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/running/shuffle/the/array">java</a> <br>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/running/shuffle/the/array">tests</a>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/shuffle/the/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/shuffle/the/array">tests</a>
         </td>
         <td align=center>
           <sub>Easy</sub>
