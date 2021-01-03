@@ -66,6 +66,27 @@
         </td>
     </tr>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/shuffle-the-array/">1470</a>
+        </td>
+        <td>
+          <sub>Shuffle the Array</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/running/shuffle/the/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/running/shuffle/the/array">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>39.1 MB <br> 75.92%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
       </td>
