@@ -1,4 +1,5 @@
 # LeetCode
+<p>Мой профиль на <a href="https://leetcode.com/ReyBos/">leetcode</a></p>
 <table>
   <thead>
     <tr>
@@ -94,8 +95,8 @@
           <sub>Kids With the Greatest Number of Candies</sub>
         </td>
         <td align=center>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/kids.with.the.greatest.number.of.candies">java</a> <br>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/kids.with.the.greatest.number.of.candies">tests</a>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/kids/with/the/greatest/number/of/candies">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/kids/with/the/greatest/number/of/candies">tests</a>
         </td>
         <td align=center>
           <sub>Easy</sub>
