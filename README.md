@@ -87,6 +87,27 @@
         </td>
     </tr>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies">1431</a>
+        </td>
+        <td>
+          <sub>Kids With the Greatest Number of Candies</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/kids.with.the.greatest.number.of.candies">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/kids.with.the.greatest.number.of.candies">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>39.3 MB <br> 33.00%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
       </td>
