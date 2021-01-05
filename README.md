@@ -1,5 +1,11 @@
 # LeetCode
-<p>Мой профиль на <a href="https://leetcode.com/ReyBos/">leetcode</a></p>
+<p>My profile on <a href="https://leetcode.com/ReyBos/">leetcode</a></p>
+<h3>Used technologies:</h3>
+<ul>
+  <li>Open JDK 14 - compiler \ interpreter</li>
+  <li>Maven - project management</li>
+  <li>JUnit4 - testing</li>
+</ul>
 <table>
   <thead>
     <tr>
@@ -64,6 +70,27 @@
         </td>
         <td align=center>
           <sub>39.1 MB <br> 72.55%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/subrectangle-queries/">1476</a>
+        </td>
+        <td>
+          <sub>Subrectangle Queries</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/subrectangle/queries">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/subrectangle/queries">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>25 ms <br> 54.30%</sub>
+        </td>
+        <td align=center>
+          <sub>42.8 MB <br> 70.32%</sub>
         </td>
     </tr>
     <tr>
