@@ -136,6 +136,27 @@
         </td>
     </tr>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/defanging-an-ip-address">1108</a>
+        </td>
+        <td>
+          <sub>Defanging an IP Address</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/defanging/an/ip/address">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/defanging/an/ip/address">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>36.9 MB <br> 78.00%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
       </td>
