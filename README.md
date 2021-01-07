@@ -1,11 +1,57 @@
 # LeetCode
-<p>My profile on <a href="https://leetcode.com/ReyBos/">leetcode</a></p>
+<p>
+    My profile on <a href="https://leetcode.com/ReyBos/">leetcode</a>
+</p>
 <h3>Used technologies:</h3>
 <ul>
   <li>Open JDK 14 - compiler \ interpreter</li>
   <li>Maven - project management</li>
   <li>JUnit4 - testing</li>
 </ul>
+<h3>Project structure:</h3>
+<p>
+    All tasks are in the "./src/main/java" folder, and tests are in the "./src/test/java" folder
+</p>
+<p>
+    Each leetcode task is in its own package. The package name depends on the job name, for example, the "richest.customer.wealth" package is used for the "Richest Customer Wealth" job
+</p>
+<p>
+    For convenience, links to solutions and tests are collected in the table below
+</p>
+<h3>How to install:</h3>
+<p>
+    First, you must have installed <a href="https://maven.apache.org/">Maven</a>
+</p>
+<p>
+    Then you need to open a terminal in the folder where you are going to store the project.<br>
+    Now we download files from the remote repository
+</p>
+<pre>
+<code>$ git clone https://github.com/ReyBos/leetcode.git leetcode</code>
+</pre>
+<p>
+    "https://github.com/ReyBos/leetcode.git" - 
+    repository address, if you forked the address will be different<br>
+    "leetcode" - the name of the target folder
+</p>
+<p>
+    <img src="screenshots/1.png" height="150">
+</p>
+<p>
+    After successfully loading the data, you need to go to the project folder and collect it.
+</p>
+<pre>
+<code>$ cd leetcode
+$ mvn install</code>
+</pre>
+<p>
+    <img src="screenshots/2.png" height="150">
+</p>
+<p>
+    This completes the installation of the project, you can proceed to use.
+</p>
+<h3>
+So far resolved issues:</h3>
 <table>
   <thead>
     <tr>
@@ -31,25 +77,25 @@
   </thead>
   <tbody>
     <tr>
-          <td align=center>
-            <a href="https://leetcode.com/problems/richest-customer-wealth/">1672</a>
-          </td>
-          <td>
-            <sub>Richest Customer Wealth</sub>
-          </td>
-          <td align=center>
-            <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/running/richest/customer/wealth">java</a> <br>
-            <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/running/richest/customer/wealth">tests</a>
-          </td>
-          <td align=center>
-            <sub>Easy</sub>
-          </td>
-          <td align=center>
-            <sub>0 ms <br> 100.00%</sub>
-          </td>
-          <td align=center>
-            <sub>38.6 MB <br> 61.35%</sub>
-          </td>
+        <td align=center>
+          <a href="https://leetcode.com/problems/richest-customer-wealth/">1672</a>
+        </td>
+        <td>
+          <sub>Richest Customer Wealth</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/running/richest/customer/wealth">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/running/richest/customer/wealth">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>38.6 MB <br> 61.35%</sub>
+        </td>
     </tr>
     <tr>
         <td align=center>
