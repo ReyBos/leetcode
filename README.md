@@ -9,6 +9,22 @@
   <li>JUnit4 - testing</li>
 </ul>
 <h3>Project structure:</h3>
+<pre>
+<code>.
+└ src
+   ├─ main
+   └─ test</code>
+</pre>
+<!--
+ ├── main
+ |   ├── index.js
+ |   ├── product.js
+ |   └── product.test.js
+ └── test
+ |   ├── index.js
+ |   ├── user.js
+ |   └── user.test.js</code>
+ -->
 <p>
     All tasks are in the "./src/main/java" folder, and tests are in the "./src/test/java" folder
 </p>
@@ -30,8 +46,7 @@
 <code>$ git clone https://github.com/ReyBos/leetcode.git leetcode</code>
 </pre>
 <p>
-    "https://github.com/ReyBos/leetcode.git" - 
-    repository address, if you forked the address will be different<br>
+    "https://github.com/ReyBos/leetcode.git" - repository address, if you forked this repository yourself, then the address will be different<br>
     "leetcode" - the name of the target folder
 </p>
 <p>
@@ -50,8 +65,19 @@ $ mvn install</code>
 <p>
     This completes the installation of the project, you can proceed to use.
 </p>
-<h3>
-So far resolved issues:</h3>
+<h3>How to use:</h3>
+<p>
+For every problem I solved, junit4 tests were written, you can use them to test your solutions. To do this, you need to find the task you are interested in in the table below and see in which package it lies. Or see the principle of forming a package for a task in the "Project structure" section. For example, the solution for a task named "Two sum" will be located at "src/main/java/two/sum/Solution.java"<br>
+After you find the file you want, replace my code in it with yours.
+</p>
+<p>
+    <img src="screenshots/3.png" height="200">
+</p>
+<p>
+    Now you can run the tests, the algorithm may differ depending on which tool you use. 
+I will consider two options: running tests in terminal and in IntelliJ IDEA
+</p>
+<h3>So far resolved issues:</h3>
 <table>
   <thead>
     <tr>
