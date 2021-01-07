@@ -53,6 +53,27 @@
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/">1689</a>
+        </td>
+        <td>
+          <sub>Partitioning Into Minimum Number Of Deci-Binary Numbers</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/partitioning/into/minimum/number/of/deci/binary/numbers">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/partitioning/into/minimum/number/of/deci/binary/numbers">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>4 ms <br> 96.41%</sub>
+        </td>
+        <td align=center>
+          <sub>39.9 MB <br> 51.56%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480</a>
         </td>
         <td>
