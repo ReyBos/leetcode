@@ -67,7 +67,7 @@ $ mvn install</code>
 </p>
 <h3>How to use:</h3>
 <p>
-For every problem I solved, junit4 tests were written, you can use them to test your solutions. To do this, you need to find the task you are interested in in the table below and see in which package it lies. Or see the principle of forming a package for a task in the "Project structure" section. For example, the solution for a task named "Two sum" will be located at "src/main/java/two/sum/Solution.java"<br>
+For every problem I solved, junit4 tests were written, you can use them to test your solutions. To do this, you need to find the task you are interested in in the table below and see in which package it lies. Or see the principle of forming a package for a task in the "Project structure" section. For example, the solution to the problem "Two sum" will have the package "two.sum" and is located at "src/main/java/two/sum/Solution.java"<br>
 After you find the file you want, replace my code in it with yours.
 </p>
 <p>
@@ -99,9 +99,9 @@ Find a test with the same package as the solution and run it
 $ mvn clean test -Dtest=your.package.TestClassName</code>
 </pre>
 <p>
-Let's see what your.package.TestClassName is using the example of the "Two sum" task.<br>
-The name of the package for this task will be "two.sum", so the test will be located at the address "src/test/java/two/sum", where we will find the name of the class for the test "SolutionTest". Then "your.package.TestClassName" for this task will be "two.sum.SolutionTest".<br>
-Let's run this test.
+    Let's see what your.package.TestClassName is using the example of the "Two sum" task.<br>
+    The name of the package for this task will be "two.sum", so the test will be located at the address "src/test/java/two/sum", where we will find the name of the class for the test "SolutionTest". Then "your.package.TestClassName" for this task will be "two.sum.SolutionTest".<br>
+    Let's run this test.
 </p>
 <p>
     <img src="screenshots/6.png" height="150">
