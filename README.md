@@ -77,6 +77,41 @@ After you find the file you want, replace my code in it with yours.
     Now you can run the tests, the algorithm may differ depending on which tool you use. 
 I will consider two options: running tests in terminal and in IntelliJ IDEA
 </p>
+<h4>IntelliJ IDEA</h4>
+<p>
+Find a test with the same package as the solution and run it
+</p>
+<p>
+    <img src="screenshots/4.png" height="200">
+</p>
+<p>
+    As a result, you will receive either a message about the successful passing of the tests, or information about the failed tests
+</p>
+<p>
+    <img src="screenshots/5.png" height="150">
+</p>
+<h4>Terminal</h4>
+<p>
+    To test through the terminal, you need to go to the project folder and execute the command to run the test
+</p>
+<pre>
+<code>$ cd leetcode
+$ mvn clean test -Dtest=your.package.TestClassName</code>
+</pre>
+<p>
+Let's see what your.package.TestClassName is using the example of the "Two sum" task.<br>
+The name of the package for this task will be "two.sum", so the test will be located at the address "src/test/java/two/sum", where we will find the name of the class for the test "SolutionTest". Then "your.package.TestClassName" for this task will be "two.sum.SolutionTest".<br>
+Let's run this test.
+</p>
+<p>
+    <img src="screenshots/6.png" height="150">
+</p>
+<p>
+    If all tests are passed, we will receive a "BUILD SUCCESS" message, otherwise an error message and failed tests.
+</p>
+<p>
+    <img src="screenshots/7.png" height="150">
+</p>
 <h3>So far resolved issues:</h3>
 <table>
   <thead>
