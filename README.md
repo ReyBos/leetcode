@@ -181,6 +181,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/number-of-good-pairs/">1512</a>
+        </td>
+        <td>
+          <sub>Number of Good Pairs</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/number/of/good/pairs">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/number/of/good/pairs">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>36 MB <br> 96.36%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480</a>
         </td>
         <td>
