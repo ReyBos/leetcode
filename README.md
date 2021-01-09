@@ -139,6 +139,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
   <tbody>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/goal-parser-interpretation/">1678</a>
+        </td>
+        <td>
+          <sub>Goal Parser Interpretation</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/goal/parser/interpretation">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/goal/parser/interpretation">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>37 MB <br> 94.88%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/richest-customer-wealth/">1672</a>
         </td>
         <td>
