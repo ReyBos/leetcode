@@ -328,7 +328,28 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
-        <a href="https://leetcode.com/problems/zigzag-conversion/solution/">0006</a>
+        <a href="https://leetcode.com/problems/jewels-and-stones/">0771</a>
+      </td>
+      <td>
+        <sub>Jewels and Stones</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/jewels/and/stones">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/jewels/and/stones">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>1 ms <br> 70.48%</sub>
+      </td>
+      <td align=center>
+        <sub>37.3 MB <br> 65.20%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        <a href="https://leetcode.com/problems/zigzag-conversion/">0006</a>
       </td>
       <td>
         <sub>ZigZag Conversion</sub>
