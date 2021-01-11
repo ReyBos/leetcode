@@ -139,6 +139,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
   <tbody>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/">1689</a>
+        </td>
+        <td>
+          <sub>Partitioning Into Minimum Number Of Deci-Binary Numbers</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/partitioning/into/minimum/number/of/deci/binary/numbers">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/partitioning/into/minimum/number/of/deci/binary/numbers">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>4 ms <br> 96.41%</sub>
+        </td>
+        <td align=center>
+          <sub>39.9 MB <br> 51.56%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/goal-parser-interpretation/">1678</a>
         </td>
         <td>
@@ -181,23 +202,23 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
-          <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/">1689</a>
+          <a href="https://leetcode.com/problems/design-parking-system/">1603</a>
         </td>
         <td>
-          <sub>Partitioning Into Minimum Number Of Deci-Binary Numbers</sub>
+          <sub>Design Parking System</sub>
         </td>
         <td align=center>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/partitioning/into/minimum/number/of/deci/binary/numbers">java</a> <br>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/partitioning/into/minimum/number/of/deci/binary/numbers">tests</a>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/design/parking/system">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/design/parking/system">tests</a>
         </td>
         <td align=center>
-          <sub>Medium</sub>
+          <sub>Easy</sub>
         </td>
         <td align=center>
-          <sub>4 ms <br> 96.41%</sub>
+          <sub>6 ms <br> 99,77%</sub>
         </td>
         <td align=center>
-          <sub>39.9 MB <br> 51.56%</sub>
+          <sub>40.2 MB <br> 14.00%</sub>
         </td>
     </tr>
     <tr>
