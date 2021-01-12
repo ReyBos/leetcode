@@ -139,6 +139,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
   <tbody>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/decode-xored-array/">1720</a>
+        </td>
+        <td>
+          <sub>Decode XORed Array</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/decode/xored/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/decode/xored/array">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>40.5 MB <br> 74.49%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/">1689</a>
         </td>
         <td>
@@ -215,7 +236,7 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
           <sub>Easy</sub>
         </td>
         <td align=center>
-          <sub>6 ms <br> 99,77%</sub>
+          <sub>6 ms <br> 99.77%</sub>
         </td>
         <td align=center>
           <sub>40.2 MB <br> 14.00%</sub>
