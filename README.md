@@ -349,6 +349,28 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">1365</a>
+        </td>
+        <td>
+          <sub>How Many Numbers Are Smaller Than the Current Number
+</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/how/many/numbers/are/smaller/than/the/current/number">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/how/many/numbers/are/smaller/than/the/current/number">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>4 ms <br> 63.27%</sub>
+        </td>
+        <td align=center>
+          <sub>38.9 MB <br> 84.35%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/defanging-an-ip-address">1108</a>
         </td>
         <td>
