@@ -244,6 +244,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/shuffle-string/">1528</a>
+        </td>
+        <td>
+          <sub>Shuffle String</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/shuffle/string">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/shuffle/string">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 99.95%</sub>
+        </td>
+        <td align=center>
+          <sub>39 MB <br> 78.34%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/number-of-good-pairs/">1512</a>
         </td>
         <td>
