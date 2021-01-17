@@ -414,6 +414,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/">1281</a>
+        </td>
+        <td>
+          <sub>Subtract the Product and Sum of Digits of an Integer</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/subtract/the/product/and/sum/of/digits/of/an/integer">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/subtract/the/product/and/sum/of/digits/of/an/integer">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>35.9 MB <br> 32.78%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/defanging-an-ip-address">1108</a>
         </td>
         <td>
