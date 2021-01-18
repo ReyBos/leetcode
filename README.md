@@ -414,6 +414,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/decompress-run-length-encoded-list/">1313</a>
+        </td>
+        <td>
+          <sub>Decompress Run-Length Encoded List</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/decompress/run/length/encoded/list">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/decompress/run/length/encoded/list">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>2 ms <br> 48.15%</sub>
+        </td>
+        <td align=center>
+          <sub>44.6 MB <br> 8.33%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/">1281</a>
         </td>
         <td>
