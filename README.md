@@ -370,6 +370,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/create-target-array-in-the-given-order">1389</a>
+        </td>
+        <td>
+          <sub>Create Target Array in the Given Order</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/create/target/array/in/the/given/order">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/create/target/array/in/the/given/order">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>37.5 MB <br> 60.36%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">1365</a>
         </td>
         <td>
