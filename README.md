@@ -456,6 +456,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">1282</a>
+        </td>
+        <td>
+          <sub>Group the People Given the Group Size They Belong To</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/group/the/people/given/the/group/size/they/belong/to">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/group/the/people/given/the/group/size/they/belong/to">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>5 ms <br> 68.11%</sub>
+        </td>
+        <td align=center>
+          <sub>40.0 MB <br> 33.09%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/">1281</a>
         </td>
         <td>
