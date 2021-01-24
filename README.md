@@ -286,6 +286,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/xor-operation-in-an-array/">1486</a>
+        </td>
+        <td>
+          <sub>XOR Operation in an Array</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/xor/operation/in/an/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/xor/operation/in/an/array">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>35.9 MB <br> 40.00%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480</a>
         </td>
         <td>
