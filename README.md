@@ -229,8 +229,8 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
           <sub>Widest Vertical Area Between Two Points Containing No Points</sub>
         </td>
         <td align=center>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/widest/vertical/area/between/two/points/containing/no/points/Solution.java">java</a> <br>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/widest/vertical/area/between/two/points/containing/no/points/Solution.java">tests</a>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/widest/vertical/area/between/two/points/containing/no/points">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/widest/vertical/area/between/two/points/containing/no/points">tests</a>
         </td>
         <td align=center>
           <sub>Medium</sub>
