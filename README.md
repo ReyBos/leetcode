@@ -223,6 +223,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">1637</a>
+        </td>
+        <td>
+          <sub>Widest Vertical Area Between Two Points Containing No Points</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/widest/vertical/area/between/two/points/containing/no/points/Solution.java">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/widest/vertical/area/between/two/points/containing/no/points/Solution.java">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>17 ms <br> 70.35%</sub>
+        </td>
+        <td align=center>
+          <sub>93.0 MB <br> 11.81%%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/design-parking-system/">1603</a>
         </td>
         <td>
