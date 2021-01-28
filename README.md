@@ -582,6 +582,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/trapping-rain-water/">0042</a>
+      </td>
+      <td>
+        <sub>Trapping Rain Water</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/trapping/rain/water">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/trapping/rain/water">tests</a>
+      </td>
+      <td align=center>
+        <sub>Hard</sub>
+      </td>
+      <td align=center>
+        <sub> ms <br> %</sub>
+      </td>
+      <td align=center>
+        <sub> MB <br> %</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/">0006</a>
       </td>
       <td>
