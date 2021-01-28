@@ -187,8 +187,8 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
           <sub>Count the Number of Consistent Strings</sub>
         </td>
         <td align=center>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/count.the.number.of.consistent.strings">java</a> <br>
-          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/count.the.number.of.consistent.strings">tests</a>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/count/the/number/of/consistent/strings">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/count/the/number/of/consistent/strings">tests</a>
         </td>
         <td align=center>
           <sub>Easy</sub>
