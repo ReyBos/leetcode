@@ -181,6 +181,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/">1684</a>
+        </td>
+        <td>
+          <sub>Count the Number of Consistent Strings</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/count.the.number.of.consistent.strings">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/count.the.number.of.consistent.strings">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>13 ms <br> 40.83%</sub>
+        </td>
+        <td align=center>
+          <sub>39.8 MB <br> 66.26%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/goal-parser-interpretation/">1678</a>
         </td>
         <td>
