@@ -286,6 +286,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/count-good-triplets/">1534</a>
+        </td>
+        <td>
+          <sub>Count Good Triplets</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/count/good/triplets">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/count/good/triplets">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>13 ms <br> 66.97%</sub>
+        </td>
+        <td align=center>
+          <sub>36.4 MB <br> 82.37%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/shuffle-string/">1528</a>
         </td>
         <td>
