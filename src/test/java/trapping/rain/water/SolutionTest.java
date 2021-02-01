@@ -53,4 +53,11 @@ public class SolutionTest {
         int[] input = new int[] {4, 2, 2, 3};
         assertEquals(2, solution.trap(input));
     }
+
+    @Test
+    public void test8() {
+        Solution solution = new Solution();
+        int[] input = new int[] {4, 9, 4, 5, 3, 2};
+        assertEquals(1, solution.trap(input));
+    }
 }
