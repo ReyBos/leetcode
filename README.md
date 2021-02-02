@@ -582,6 +582,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/">1221</a>
+        </td>
+        <td>
+          <sub>Split a String in Balanced Strings</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/split/a/string/in/balanced/strings">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/split/a/string/in/balanced/strings">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>38.5 MB <br> 12.88%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/defanging-an-ip-address">1108</a>
         </td>
         <td>
