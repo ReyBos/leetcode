@@ -202,6 +202,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">1662</a>
+        </td>
+        <td>
+          <sub>Check If Two String Arrays are Equivalent</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/check/two/string/arrays/are/equivalent">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/check/two/string/arrays/are/equivalent">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 73.79%</sub>
+        </td>
+        <td align=center>
+          <sub>38.6 MB <br> 28.74%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/goal-parser-interpretation/">1678</a>
         </td>
         <td>
