@@ -181,6 +181,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/count-of-matches-in-tournament/">1688</a>
+        </td>
+        <td>
+          <sub>Count of Matches in Tournament</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/count/of/matches/in/tournament">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/count/of/matches/in/tournament">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>35.7 MB <br> 71.87%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/">1684</a>
         </td>
         <td>
