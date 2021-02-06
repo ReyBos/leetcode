@@ -286,6 +286,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/design-an-ordered-stream/">1656</a>
+        </td>
+        <td>
+          <sub>Design an Ordered Stream</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/design/an/ordered/stream">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/design/an/ordered/stream">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>67 ms <br> 77.63%</sub>
+        </td>
+        <td align=center>
+          <sub>40.2 MB <br> 89.55%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">1637</a>
         </td>
         <td>
