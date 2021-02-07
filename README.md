@@ -139,6 +139,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
   <tbody>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/find-the-highest-altitude/">1732</a>
+        </td>
+        <td>
+          <sub>Find the Highest Altitude</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/find/the/highest/altitude">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/find/the/highest/altitude">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>36.8 MB <br> 60.77%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/decode-xored-array/">1720</a>
         </td>
         <td>
