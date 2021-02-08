@@ -735,8 +735,8 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
         <sub>Battleships in a Board</sub>
       </td>
       <td align=center>
-        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/battleships.in.a.board">java</a> <br>
-        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/battleships.in.a.board">tests</a>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/battleships/in/a/board">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/battleships/in/a/board">tests</a>
       </td>
       <td align=center>
         <sub>Medium</sub>
