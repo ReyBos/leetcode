@@ -729,6 +729,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/arranging-coins/">0441</a>
+      </td>
+      <td>
+        <sub>Arranging Coins</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/arranging/coins">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/arranging/coins">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>6 ms <br> 47.28%</sub>
+      </td>
+      <td align=center>
+        <sub>36.2 MB <br> 65.40%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/battleships-in-a-board/">0419</a>
       </td>
       <td>
