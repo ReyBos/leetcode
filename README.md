@@ -729,6 +729,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/to-lower-case/">0709</a>
+      </td>
+      <td>
+        <sub>To Lower Case</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/to/lower">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/to/lower">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>36.8 MB <br> 77.78%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/arranging-coins/">0441</a>
       </td>
       <td>
