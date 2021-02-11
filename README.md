@@ -559,6 +559,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/design-a-stack-with-increment-operation/">1381</a>
+        </td>
+        <td>
+          <sub>Design a Stack With Increment Operation</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/design/a/stack/with/increment/operation">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/design/a/stack/with/increment/operation">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>5 ms <br> 79.92%</sub>
+        </td>
+        <td align=center>
+          <sub>39.8 MB <br> 63.77%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">1365</a>
         </td>
         <td>
