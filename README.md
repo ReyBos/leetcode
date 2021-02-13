@@ -349,6 +349,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/">1614</a>
+        </td>
+        <td>
+          <sub>Maximum Nesting Depth of the Parentheses</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/maximum/nesting/depth/of/the/parentheses">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/maximum/nesting/depth/of/the/parentheses">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>37.2 MB <br> 44.52%%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/design-parking-system/">1603</a>
         </td>
         <td>
