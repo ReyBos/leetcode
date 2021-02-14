@@ -391,6 +391,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/sum-of-all-odd-length-subarrays/">1588</a>
+        </td>
+        <td>
+          <sub>Sum of All Odd Length Subarrays</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/sum/of/all/odd/length/subarrays">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/sum/of/all/odd/length/subarrays">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%%</sub>
+        </td>
+        <td align=center>
+          <sub>36.5 MB <br> 84.79%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/count-good-triplets/">1534</a>
         </td>
         <td>
