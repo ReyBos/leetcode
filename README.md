@@ -729,6 +729,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/minimum-time-visiting-all-points/">1266</a>
+        </td>
+        <td>
+          <sub>Minimum Time Visiting All Points</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/minimum/time/visiting/all/points">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/minimum/time/visiting/all/points">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>38.4 MB <br> 90.93%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/">1221</a>
         </td>
         <td>
