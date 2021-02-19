@@ -687,6 +687,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">1295</a>
+        </td>
+        <td>
+          <sub>Find Numbers with Even Number of Digits</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/find/numbers/with/even/number/of/digits">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/find/numbers/with/even/number/of/digits">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 94.57%</sub>
+        </td>
+        <td align=center>
+          <sub>38.5 MB <br> 71.65%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">1282</a>
         </td>
         <td>
