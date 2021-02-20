@@ -771,6 +771,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/">1252</a>
+        </td>
+        <td>
+          <sub>Cells with Odd Values in a Matrix</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/cells/with/odd/values/in/a/matrix">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/cells/with/odd/values/in/a/matrix">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 74.53%</sub>
+        </td>
+        <td align=center>
+          <sub>36.7 MB <br> 94.15%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/">1221</a>
         </td>
         <td>
