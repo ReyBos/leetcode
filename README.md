@@ -1,30 +1,45 @@
 # LeetCode
+
+<a name="menu"></a>
+<ul>
+    <li>
+        <a href="#technologies">Used technologies</a>
+    </li>
+    <li>
+        <a href="#structure">Project structure</a>
+    </li>
+    <li>
+        <a href="#install">How to install</a>
+    </li>
+    <li>
+        <a href="#usage">How to use</a>
+        <ul>
+            <li><a href="#idea">IntelliJ IDEA</a></li>
+            <li><a href="#terminal">Terminal</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="#problems">Problems</a>
+    </li>
+</ul>
 <p>
     My profile on <a href="https://leetcode.com/ReyBos/">leetcode</a>
 </p>
-<h3>Used technologies:</h3>
+
+<h3><a name="technologies">Used technologies:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
 <ul>
   <li>Open JDK 14 - compiler \ interpreter</li>
   <li>Maven - project management</li>
   <li>JUnit4 - testing</li>
 </ul>
-<h3>Project structure:</h3>
+
+<h3><a name="structure">Project structure:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
 <pre>
 <code>.
 └ src
    ├─ main
    └─ test</code>
 </pre>
-<!--
- ├── main
- |   ├── index.js
- |   ├── product.js
- |   └── product.test.js
- └── test
- |   ├── index.js
- |   ├── user.js
- |   └── user.test.js</code>
- -->
 <p>
     All tasks are in the "./src/main/java" folder, and tests are in the "./src/test/java" folder
 </p>
@@ -34,7 +49,8 @@
 <p>
     For convenience, links to solutions and tests are collected in the table below
 </p>
-<h3>How to install:</h3>
+
+<h3><a name="install">How to install:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
 <p>
     First, you must have installed <a href="https://maven.apache.org/">Maven</a>
 </p>
@@ -65,7 +81,8 @@ $ mvn install</code>
 <p>
     This completes the installation of the project, you can proceed to use.
 </p>
-<h3>How to use:</h3>
+
+<h3><a name="usage">How to use:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
 <p>
 For every problem I solved, junit4 tests were written, you can use them to test your solutions. To do this, you need to find the task you are interested in in the table below and see in which package it lies. Or see the principle of forming a package for a task in the "Project structure" section. For example, the solution to the problem "Two sum" will have the package "two.sum" and is located at "src/main/java/two/sum/Solution.java"<br>
 After you find the file you want, replace my code in it with yours.
@@ -77,7 +94,8 @@ After you find the file you want, replace my code in it with yours.
     Now you can run the tests, the algorithm may differ depending on which tool you use. 
 I will consider two options: running tests in terminal and in IntelliJ IDEA
 </p>
-<h4>IntelliJ IDEA</h4>
+
+<h4><a name="idea">IntelliJ IDEA</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h4>
 <p>
 Find a test with the same package as the solution and run it
 </p>
@@ -90,7 +108,8 @@ Find a test with the same package as the solution and run it
 <p>
     <img src="screenshots/5.png" height="150">
 </p>
-<h4>Terminal</h4>
+
+<h4><a name="terminal">Terminal</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h4>
 <p>
     To test through the terminal, you need to go to the project folder and execute the command to run the test
 </p>
@@ -112,7 +131,8 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
 <p>
     <img src="screenshots/7.png" height="150">
 </p>
-<h3>So far resolved issues:</h3>
+
+<h3><a name="problems">Problems:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
 <table>
   <thead>
     <tr>
