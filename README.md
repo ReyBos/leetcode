@@ -667,8 +667,7 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
           <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">1342</a>
         </td>
         <td>
-          <sub>Number of Steps to Reduce a Number to Zero
-</sub>
+          <sub>Number of Steps to Reduce a Number to Zero</sub>
         </td>
         <td align=center>
           <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/number/of/steps/to/reduce/a/number/to/zero">java</a> <br>
@@ -682,6 +681,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
         </td>
         <td align=center>
           <sub>35.9 MB <br> 32.70%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/maximum-69-number/">1323</a>
+        </td>
+        <td>
+          <sub>Maximum 69 Number</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/maximum/number">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/maximum/number">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>36.1 MB <br> 46.68%</sub>
         </td>
     </tr>
     <tr>
