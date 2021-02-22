@@ -916,6 +916,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/">0524</a>
+      </td>
+      <td>
+        <sub>Longest Word in Dictionary through Deleting</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/longest/word/in/dictionary/through/deleting">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/longest/word/in/dictionary/through/deleting">tests</a>
+      </td>
+      <td align=center>
+        <sub>Medium</sub>
+      </td>
+      <td align=center>
+        <sub>7 ms <br> 98.60%</sub>
+      </td>
+      <td align=center>
+        <sub>39.6 MB <br> 92.60%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/arranging-coins/">0441</a>
       </td>
       <td>
