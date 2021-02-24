@@ -873,6 +873,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
         </td>
     </tr>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/score-of-parentheses/">0856</a>
+        </td>
+        <td>
+          <sub>Score of Parentheses</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/score/of/parentheses">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/score/of/parentheses">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>37.0 MB <br> 73.06%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/jewels-and-stones/">0771</a>
       </td>
