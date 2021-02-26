@@ -874,6 +874,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/validate-stack-sequences/">0946</a>
+        </td>
+        <td>
+          <sub>Validate Stack Sequences</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/validate/stack/sequences">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/validate/stack/sequences">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 95.06%</sub>
+        </td>
+        <td align=center>
+          <sub>38.7 MB <br> 69.64%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/score-of-parentheses/">0856</a>
         </td>
         <td>
