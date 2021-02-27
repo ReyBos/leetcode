@@ -1042,6 +1042,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/divide-two-integers/">0029</a>
+      </td>
+      <td>
+        <sub>Divide Two Integers</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/divide/two/integers">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/divide/two/integers">tests</a>
+      </td>
+      <td align=center>
+        <sub>Medium</sub>
+      </td>
+      <td align=center>
+        <sub>1780 ms <br> 10.17%</sub>
+      </td>
+      <td align=center>
+        <sub>35.9 MB <br> 92.13%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/">0006</a>
       </td>
       <td>
