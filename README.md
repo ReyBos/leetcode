@@ -895,6 +895,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/maximum-frequency-stack/">0895</a>
+        </td>
+        <td>
+          <sub>Maximum Frequency Stack</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/maximum/frequency/stack">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/maximum/frequency/stack">tests</a>
+        </td>
+        <td align=center>
+          <sub>Hard</sub>
+        </td>
+        <td align=center>
+          <sub>27 ms <br> 64.31%</sub>
+        </td>
+        <td align=center>
+          <sub>48.1 MB <br> 74.78%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/score-of-parentheses/">0856</a>
         </td>
         <td>
