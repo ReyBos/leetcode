@@ -979,6 +979,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/distribute-candies/">0575</a>
+      </td>
+      <td>
+        <sub>Distribute Candies</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/distribute/candies">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/distribute/candies">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>21 ms <br> 93.97%</sub>
+      </td>
+      <td align=center>
+        <sub>41.1 MB <br> 56.97%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/">0524</a>
       </td>
       <td>
