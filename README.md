@@ -979,6 +979,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/set-mismatch/">0645</a>
+      </td>
+      <td>
+        <sub>Set Mismatch</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/set/mismatch">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/set/mismatch">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>9 ms <br> 41.69%</sub>
+      </td>
+      <td align=center>
+        <sub>40.6 MB <br> 59.50%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/distribute-candies/">0575</a>
       </td>
       <td>
