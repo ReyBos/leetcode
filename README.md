@@ -1084,6 +1084,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/missing-number/">0268</a>
+      </td>
+      <td>
+        <sub>Missing Number</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/missing/number">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/missing/number">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>39.1 MB <br> 89.73%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/trapping-rain-water/">0042</a>
       </td>
       <td>
