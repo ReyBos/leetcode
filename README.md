@@ -159,6 +159,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
   <tbody>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/merge-strings-alternately/">1768</a>
+        </td>
+        <td>
+          <sub>Merge Strings Alternately</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/merge/strings/alternately">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/merge/strings/alternately">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>37 MB <br> 100.00%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/find-the-highest-altitude/">1732</a>
         </td>
         <td>
