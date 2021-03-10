@@ -453,6 +453,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/matrix-diagonal-sum/">1572</a>
+        </td>
+        <td>
+          <sub>Matrix Diagonal Sum</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/matrix/diagonal/sum">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/matrix/diagonal/sum">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%%</sub>
+        </td>
+        <td align=center>
+          <sub>39.3 MB <br> 33.37%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/count-good-triplets/">1534</a>
         </td>
         <td>
