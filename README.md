@@ -621,6 +621,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">1464</a>
+        </td>
+        <td>
+          <sub>Maximum Product of Two Elements in an Array</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/maximum/product/of/two/elements/in/an/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/maximum/product/of/two/elements/in/an/array">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 67.58%</sub>
+        </td>
+        <td align=center>
+          <sub>38.9 MB <br> 26.59%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies">1431</a>
         </td>
         <td>
