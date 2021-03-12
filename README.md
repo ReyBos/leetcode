@@ -1021,6 +1021,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/self-dividing-numbers/">0728</a>
+      </td>
+      <td>
+        <sub>Self Dividing Numbers</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/self/dividing/numbers">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/self/dividing/numbers">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>1 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>36.6 MB <br> 81.69%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/to-lower-case/">0709</a>
       </td>
       <td>
