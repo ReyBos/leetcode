@@ -1189,6 +1189,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/plus-one/">0066</a>
+      </td>
+      <td>
+        <sub>Plus One</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/plus/one">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/plus/one">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>37.3 MB <br> 81.35%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/trapping-rain-water/">0042</a>
       </td>
       <td>
