@@ -180,6 +180,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/sum-of-unique-elements/">1748</a>
+        </td>
+        <td>
+          <sub>Sum of Unique Elements</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/sum/of/unique/elements">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/sum/of/unique/elements">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 75.41%</sub>
+        </td>
+        <td align=center>
+          <sub>36.7 MB <br> 67.03%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/find-the-highest-altitude/">1732</a>
         </td>
         <td>
