@@ -621,6 +621,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/">1475</a>
+        </td>
+        <td>
+          <sub>Final Prices With a Special Discount in a Shop</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/finalprices/with/a/special/discount/in/a/shop">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/finalprices/with/a/special/discount/in/a/shop">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>39.2 MB <br> 60.06%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/shuffle-the-array/">1470</a>
         </td>
         <td>
