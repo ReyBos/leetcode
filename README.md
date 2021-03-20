@@ -1041,6 +1041,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
         </td>
     </tr>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/keys-and-rooms/">0841</a>
+        </td>
+        <td>
+          <sub>Keys and Rooms</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/keys/and/rooms">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/keys/and/rooms">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>2 ms <br> 49.68%</sub>
+        </td>
+        <td align=center>
+          <sub>38.9 MB <br> 64.34%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/jewels-and-stones/">0771</a>
       </td>
