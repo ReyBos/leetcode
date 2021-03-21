@@ -1021,6 +1021,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/reordered-power-of-2/">0869</a>
+        </td>
+        <td>
+          <sub>Reordered Power of 2</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/reordered/power/of/two">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/reordered/power/of/two">tests</a>
+        </td>
+        <td align=center>
+          <sub>Medium</sub>
+        </td>
+        <td align=center>
+          <sub>2 ms <br> 57.98%</sub>
+        </td>
+        <td align=center>
+          <sub>35.8 MB <br> 82.35%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/score-of-parentheses/">0856</a>
         </td>
         <td>
