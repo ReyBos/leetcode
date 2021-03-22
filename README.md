@@ -1083,6 +1083,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
         </td>
     </tr>
     <tr>
+        <td align=center>
+          <a href="https://leetcode.com/problems/flipping-an-image/">0832</a>
+        </td>
+        <td>
+          <sub>Flipping an Image</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/flipping/an/image">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/flipping/an/image">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100%%</sub>
+        </td>
+        <td align=center>
+          <sub>39.4 MB <br> 33.25%</sub>
+        </td>
+    </tr>
+    <tr>
       <td align=center>
         <a href="https://leetcode.com/problems/jewels-and-stones/">0771</a>
       </td>
