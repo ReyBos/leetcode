@@ -832,6 +832,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/">1304</a>
+        </td>
+        <td>
+          <sub>Find N Unique Integers Sum up to Zero</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/find/n/unique/integers/sum/up/to/zero">java</a> <br>
+          <a>tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>37.6 MB <br> 33.91%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">1295</a>
         </td>
         <td>
