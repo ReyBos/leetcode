@@ -1000,6 +1000,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/remove-outermost-parentheses">1021</a>
+        </td>
+        <td>
+          <sub>Remove Outermost Parentheses</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/remove/outermost/parentheses">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/remove/outermost/parentheses">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>2 ms <br> 99.11%</sub>
+        </td>
+        <td align=center>
+          <sub>38.8 MB <br> 80.76%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/validate-stack-sequences/">0946</a>
         </td>
         <td>
