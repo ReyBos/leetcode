@@ -1021,6 +1021,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/">0961</a>
+        </td>
+        <td>
+          <sub>N-Repeated Element in Size 2N Array</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/n/repeated/element/in/size/two/n/array">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/n/repeated/element/in/size/two/n/array">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>9 ms <br> 33.44%</sub>
+        </td>
+        <td align=center>
+          <sub>40.1 MB <br> 39.51%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/validate-stack-sequences/">0946</a>
         </td>
         <td>
