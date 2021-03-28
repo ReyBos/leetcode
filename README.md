@@ -769,6 +769,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">1351</a>
+        </td>
+        <td>
+          <sub>Count Negative Numbers in a Sorted Matrix</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/count/negative/numbers/in/a/sorted/matrix">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/count/negative/numbers/in/a/sorted/matrix">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>0 ms <br> 100.00%</sub>
+        </td>
+        <td align=center>
+          <sub>39.5 MB <br> 44.59%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">1342</a>
         </td>
         <td>
