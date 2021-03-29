@@ -1441,6 +1441,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/reverse-integer/">0007</a>
+      </td>
+      <td>
+        <sub>Reverse Integer</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/reverse/integer">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/reverse/integer">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>2 ms <br> 31.84%</sub>
+      </td>
+      <td align=center>
+        <sub>36.1 MB <br> 49.38%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/zigzag-conversion/">0006</a>
       </td>
       <td>
