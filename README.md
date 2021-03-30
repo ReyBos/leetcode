@@ -1441,6 +1441,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/palindrome-number/">0009</a>
+      </td>
+      <td>
+        <sub>Palindrome Number</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/palindrome/number">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/palindrome/number">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>6 ms <br> 99.96%</sub>
+      </td>
+      <td align=center>
+        <sub>38 MB <br> 91.71%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/reverse-integer/">0007</a>
       </td>
       <td>
