@@ -1441,6 +1441,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/roman-to-integer/">0013</a>
+      </td>
+      <td>
+        <sub>Roman to Integer</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/roman/to/integer">java</a> <br>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/roman/to/integer">tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>4 ms <br> 72.84%</sub>
+      </td>
+      <td align=center>
+        <sub>39.1 MB <br> 77.34%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/palindrome-number/">0009</a>
       </td>
       <td>
