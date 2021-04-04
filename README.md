@@ -747,6 +747,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
         <td align=center>
+          <a href="https://leetcode.com/problems/lucky-numbers-in-a-matrix/">1380</a>
+        </td>
+        <td>
+          <sub>Lucky Numbers in a Matrix</sub>
+        </td>
+        <td align=center>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/lucky/numbers/in/a/matrix">java</a> <br>
+          <a href="https://github.com/ReyBos/leetcode/tree/master/src/test/java/lucky/numbers/in/a/matrix">tests</a>
+        </td>
+        <td align=center>
+          <sub>Easy</sub>
+        </td>
+        <td align=center>
+          <sub>1 ms <br> 98.20%</sub>
+        </td>
+        <td align=center>
+          <sub>39.5 MB <br> 42.02%</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
           <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/">1365</a>
         </td>
         <td>
