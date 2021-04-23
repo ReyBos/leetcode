@@ -1420,6 +1420,90 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
     </tr>
     <tr>
       <td align=center>
+        <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">0104</a>
+      </td>
+      <td>
+        <sub>Maximum Depth of Binary Tree</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/maximum/depth/of/binary/tree">java</a> <br>
+        <a>tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>38.9 MB <br> 59.35%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        <a href="https://leetcode.com/problems/symmetric-tree/">0101</a>
+      </td>
+      <td>
+        <sub>Symmetric Tree</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/symmetric/tree">java</a> <br>
+        <a>tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>36.5 MB <br> 98.37%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        <a href="https://leetcode.com/problems/same-tree/">0100</a>
+      </td>
+      <td>
+        <sub>Same Tree</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/same/tree">java</a> <br>
+        <a>tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>36.4 MB <br> 50.68%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">0094</a>
+      </td>
+      <td>
+        <sub>Binary Tree Inorder Traversal</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/binary/tree/inorder/traversal">java</a> <br>
+        <a>tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>39.1 MB <br> 89.73%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
         <a href="https://leetcode.com/problems/plus-one/">0066</a>
       </td>
       <td>
