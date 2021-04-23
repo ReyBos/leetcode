@@ -1499,7 +1499,7 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
         <sub>0 ms <br> 100.00%</sub>
       </td>
       <td align=center>
-        <sub>39.1 MB <br> 89.73%</sub>
+        <sub>37.5 MB <br> 19.10%</sub>
       </td>
     </tr>
     <tr>
