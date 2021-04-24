@@ -1,138 +1,16 @@
 # LeetCode
-
-<a name="menu"></a>
-<ul>
-    <li>
-        <a href="#technologies">Used technologies</a>
-    </li>
-    <li>
-        <a href="#structure">Project structure</a>
-    </li>
-    <li>
-        <a href="#install">How to install</a>
-    </li>
-    <li>
-        <a href="#usage">How to use</a>
-        <ul>
-            <li><a href="#idea">IntelliJ IDEA</a></li>
-            <li><a href="#terminal">Terminal</a></li>
-        </ul>
-    </li>
-    <li>
-        <a href="#problems">Problems</a>
-    </li>
-</ul>
 <p>
     My profile on <a href="https://leetcode.com/ReyBos/">leetcode</a>
 </p>
 
-<h3><a name="technologies">Used technologies:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
+<h3><a name="technologies">Used technologies:</a></h3>
 <ul>
-  <li>Open JDK 14 - compiler \ interpreter</li>
-  <li>Maven - project management</li>
-  <li>JUnit4 - testing</li>
+  <li>Open JDK 14 </li>
+  <li>Maven</li>
+  <li>JUnit4</li>
 </ul>
 
-<h3><a name="structure">Project structure:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
-<pre>
-<code>.
-└ src
-   ├─ main
-   └─ test</code>
-</pre>
-<p>
-    All tasks are in the "./src/main/java" folder, and tests are in the "./src/test/java" folder
-</p>
-<p>
-    Each leetcode task is in its own package. The package name depends on the job name, for example, the "richest.customer.wealth" package is used for the "Richest Customer Wealth" job
-</p>
-<p>
-    For convenience, links to solutions and tests are collected in the table below
-</p>
-
-<h3><a name="install">How to install:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
-<p>
-    First, you must have installed <a href="https://maven.apache.org/">Maven</a>
-</p>
-<p>
-    Then you need to open a terminal in the folder where you are going to store the project.<br>
-    Now we download files from the remote repository
-</p>
-<pre>
-<code>$ git clone https://github.com/ReyBos/leetcode.git leetcode</code>
-</pre>
-<p>
-    "https://github.com/ReyBos/leetcode.git" - repository address, if you forked this repository yourself, then the address will be different<br>
-    "leetcode" - the name of the target folder
-</p>
-<p>
-    <img src="screenshots/1.png" height="150">
-</p>
-<p>
-    After successfully loading the data, you need to go to the project folder and collect it.
-</p>
-<pre>
-<code>$ cd leetcode
-$ mvn install</code>
-</pre>
-<p>
-    <img src="screenshots/2.png" height="150">
-</p>
-<p>
-    This completes the installation of the project, you can proceed to use.
-</p>
-
-<h3><a name="usage">How to use:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
-<p>
-For every problem I solved, junit4 tests were written, you can use them to test your solutions. To do this, you need to find the task you are interested in in the table below and see in which package it lies. Or see the principle of forming a package for a task in the "Project structure" section. For example, the solution to the problem "Two sum" will have the package "two.sum" and is located at "src/main/java/two/sum/Solution.java"<br>
-After you find the file you want, replace my code in it with yours.
-</p>
-<p>
-    <img src="screenshots/3.png" height="200">
-</p>
-<p>
-    Now you can run the tests, the algorithm may differ depending on which tool you use. 
-I will consider two options: running tests in terminal and in IntelliJ IDEA
-</p>
-
-<h4><a name="idea">IntelliJ IDEA</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h4>
-<p>
-Find a test with the same package as the solution and run it
-</p>
-<p>
-    <img src="screenshots/4.png" height="200">
-</p>
-<p>
-    As a result, you will receive either a message about the successful passing of the tests, or information about the failed tests
-</p>
-<p>
-    <img src="screenshots/5.png" height="150">
-</p>
-
-<h4><a name="terminal">Terminal</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h4>
-<p>
-    To test through the terminal, you need to go to the project folder and execute the command to run the test
-</p>
-<pre>
-<code>$ cd leetcode
-$ mvn clean test -Dtest=your.package.TestClassName</code>
-</pre>
-<p>
-    Let's see what your.package.TestClassName is using the example of the "Two sum" task.<br>
-    The name of the package for this task will be "two.sum", so the test will be located at the address "src/test/java/two/sum", where we will find the name of the class for the test "SolutionTest". Then "your.package.TestClassName" for this task will be "two.sum.SolutionTest".<br>
-    Let's run this test.
-</p>
-<p>
-    <img src="screenshots/6.png" height="150">
-</p>
-<p>
-    If all tests are passed, we will receive a "BUILD SUCCESS" message, otherwise an error message and failed tests.
-</p>
-<p>
-    <img src="screenshots/7.png" height="150">
-</p>
-
-<h3><a name="problems">Problems:</a>&nbsp;&nbsp;<a href="#menu">&#9650;</a></h3>
+<h3><a name="problems">Problems:</a></h3>
 <table>
   <thead>
     <tr>
@@ -1416,6 +1294,27 @@ $ mvn clean test -Dtest=your.package.TestClassName</code>
       </td>
       <td align=center>
         <sub>39.1 MB <br> 89.73%</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        <a href="https://leetcode.com/problems/linked-list-cycle/">0141</a>
+      </td>
+      <td>
+        <sub>Linked List Cycle</sub>
+      </td>
+      <td align=center>
+        <a href="https://github.com/ReyBos/leetcode/tree/master/src/main/java/linked/list/cycle">java</a> <br>
+        <a>tests</a>
+      </td>
+      <td align=center>
+        <sub>Easy</sub>
+      </td>
+      <td align=center>
+        <sub>0 ms <br> 100.00%</sub>
+      </td>
+      <td align=center>
+        <sub>39.9 MB <br> 60.04%</sub>
       </td>
     </tr>
     <tr>
